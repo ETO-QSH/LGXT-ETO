@@ -5,3 +5,5 @@
 https://github.com/zygame1314/LGXT-Assistant
 
 将tkinter改为了prompt_toolkit，更加轻量化
+
+按照原项目使用 MIT License 许可
